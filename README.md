@@ -1,2 +1,2 @@
 # Deep-Learning
-A step by step learning and implementation of various tasks in Deep Learning.
+A step by step learning, implementation and solutions to various problems using Deep Learning.
